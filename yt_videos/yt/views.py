@@ -76,7 +76,7 @@ class YTData:
 
 def display_string(request):
     
-    API_Key = ["AIzaSyAkLWQGo-rHoHAVTpz8M_c_kQ2Hap99iw0"]
+    API_Key = ["AIzaSyBElYATc34232wyKkjA4FKTd0O8dauCxxc"]
     
     query = "cricket"
     
